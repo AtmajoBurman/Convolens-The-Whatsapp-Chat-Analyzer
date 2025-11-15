@@ -31,6 +31,7 @@ Upload your exported WhatsApp chat (`.txt` file) and instantly get deep analytic
 
 ### 👥 User Insights
 
+* Both individual level and group level analysis
 * Busiest users (chart + table)
 * Individual user's contribution
 
@@ -43,20 +44,6 @@ Upload your exported WhatsApp chat (`.txt` file) and instantly get deep analytic
 
 * Most used emojis
 * Emoji usage percentage
-
----
-
-## 🖼️ **Screenshots**
-
-Paste your 5 screenshot links below:
-
-```
-![Screenshot 1](https://example.com/screenshot1.png)
-![Screenshot 2](https://example.com/screenshot2.png)
-![Screenshot 3](https://example.com/screenshot3.png)
-![Screenshot 4](https://example.com/screenshot4.png)
-![Screenshot 5](https://example.com/screenshot5.png)
-```
 
 ---
 
