@@ -5,7 +5,7 @@ A powerful and elegant **WhatsApp Chat Analyzer** built with **Streamlit**, capa
 Upload your exported WhatsApp chat (`.txt` file) and instantly get deep analytics — perfect for personal insights, research, or fun group analysis.
 
 🔗 **Live App:**
-👉 [Live Deployed App Link Here](https://convolens-the-whatsapp-chat-analyzer.streamlit.app)
+👉 [Live Deployed App Link Here](convolens-the-whatsapp-chat-analyzer.streamlit.app)
 (please consider refreshing if app does not open in the first go)
 
 🎥 **Video Demo:** If you want a quick overview of how the WhatsApp Chat Analyzer works, here’s a short demo you can watch: 
