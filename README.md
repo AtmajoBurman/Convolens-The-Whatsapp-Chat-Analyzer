@@ -10,7 +10,11 @@ Upload your exported WhatsApp chat (`.txt` file) and instantly get deep analytic
 
 🎥 **Video Demo:** If you want a quick overview of how the WhatsApp Chat Analyzer works, here’s a short demo you can watch: 
 
-👉 [Click here to watch the demo video](https://drive.google.com/file/d/1tLcK1AGg1FyJjxRfoIOR4rJVUcgV-QJl/view?usp=sharing)
+👉 [Click here to watch the demo video (On a Personal Computer)](https://drive.google.com/file/d/11HlHu3xTJiEFP8pfAhEhC-lwDANsEScR/view?usp=drive_link)
+
+👉 [Click here to watch the demo video (On an Android Smart Phone)](https://drive.google.com/file/d/1tLcK1AGg1FyJjxRfoIOR4rJVUcgV-QJl/view?usp=sharing)
+
+✈️ **A 2 minute Discussion Video on current shortcomings and potential improvements:** [Video URL](https://drive.google.com/file/d/1aYJZd40u7b0A2nAKt_I7g5N3rk001aMo/view?usp=sharing)
 
 ---
 
