@@ -17,6 +17,13 @@ Upload your exported WhatsApp chat (`.txt` file) and instantly get deep analytic
 ✈️ **A 2 minute Discussion Video on current shortcomings and potential improvements:** [Video URL](https://drive.google.com/file/d/1aYJZd40u7b0A2nAKt_I7g5N3rk001aMo/view?usp=sharing)
 
 ---
+## **📸 APPLICATION SCREENSHOTS**
+
+![Alt Text](https://github.com/AtmajoBurman/Convolens-The-Whatsapp-Chat-Analyzer/blob/main/Screenshot%202025-11-15%20124425.png)
+![Alt Text](https://github.com/AtmajoBurman/Convolens-The-Whatsapp-Chat-Analyzer/blob/main/Screenshot%202025-11-15%20124446.png)
+![Alt Text](https://github.com/AtmajoBurman/Convolens-The-Whatsapp-Chat-Analyzer/blob/main/Screenshot%202025-11-15%20124523.png)
+![Alt Text](https://github.com/AtmajoBurman/Convolens-The-Whatsapp-Chat-Analyzer/blob/main/Screenshot%202025-11-15%20124534.png)
+![Alt Text](https://github.com/AtmajoBurman/Convolens-The-Whatsapp-Chat-Analyzer/blob/main/Screenshot%202025-11-15%20124600.png)
 
 ## 🚀 **Features**
 
