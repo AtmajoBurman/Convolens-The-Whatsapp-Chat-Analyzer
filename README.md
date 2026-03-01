@@ -8,6 +8,8 @@ Upload your exported WhatsApp chat (`.txt` file) and instantly get deep analytic
 👉 [Live Deployed App Link Here](http://convolens-the-whatsapp-chat-analyzer.streamlit.app)
 (please consider refreshing if app does not open in the first go)
 
+👉 Sample whatsapp chat .txt file [Download it from here](https://github.com/AtmajoBurman/Convolens-The-Whatsapp-Chat-Analyzer/blob/main/WhatsApp%20Chat%20with%20CSE%20Placement%20Updates%20Batch%202027.txt)
+
 🎥 **Video Demo:** If you want a quick overview of how the WhatsApp Chat Analyzer works, here’s a short demo you can watch: 
 
 👉 [Click here to watch the demo video (On a Personal Computer)](https://drive.google.com/file/d/11HlHu3xTJiEFP8pfAhEhC-lwDANsEScR/view?usp=drive_link)
